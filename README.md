@@ -45,7 +45,7 @@
 ---
 
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/JawadTechXD/JawadTechXD/refs/heads/main/jbmd.jpg](https://files.catbox.moe/88g1a8.jpg)" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="[https://files.catbox.moe/88g1a8.jpg]" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ***
