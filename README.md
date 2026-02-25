@@ -89,7 +89,7 @@
 
 ## 🚀 Pairing Dashboard
 
-> Securely link your device using the official KHAN-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
+> Securely link your device using the official JB-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
 
  <div align="center">
 
