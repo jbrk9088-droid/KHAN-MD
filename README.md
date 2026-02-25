@@ -168,7 +168,7 @@
 
 ---
 
-## KHAN-MD FEATURES
+## JB-MD FEATURES
 
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=purple&label=Features&style=for-the-badge&url=https://api.example.com/khanmd&query=$.features_count&suffix=%20Active" alt="Features"/>
@@ -202,7 +202,7 @@
 📢 Get updates, fixes, and sneak peeks directly from the official channel.
 </p>
 
-<a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j" target="_blank">
+<a href="https://whatsapp.com/channel/0029Vb69yTi5PO0rX16dFQ1L" target="_blank">
   <img src="https://img.shields.io/badge/JOIN_CHANNEL-NOW-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111" alt="Join WhatsApp Channel"/>
 </a>
 
@@ -211,7 +211,7 @@
 ---
 
 <h2 align="center" style="color:#9D00FF; font-family:monospace; font-size:26px;">
-🧾 PROJECT STATS KHAN-MD
+🧾 PROJECT STATS JB-MD
 </h2>
 
 <div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
